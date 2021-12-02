@@ -229,3 +229,5 @@ while (numberr != 0) {
 }
 
 print(numberss)
+
+print("Amani")
